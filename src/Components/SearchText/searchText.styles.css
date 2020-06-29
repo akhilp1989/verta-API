@@ -1,0 +1,29 @@
+.search-container{
+    background-color: black;
+    width: 100%;
+    margin-bottom: 20px;
+    
+}
+.header{
+    color: aliceblue;
+    text-align: center;
+    margin: 50%,50%
+}
+.inputText{
+    width: 100%;
+    text-align: center;
+}
+.inputBox{
+    
+        margin: 0 auto;
+        display: block;
+        width: 75%;
+        height: 35px;
+    
+}
+.label{
+margin: 10px;
+}
+.selectValues{
+    margin: 20px;
+}
